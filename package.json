@@ -1,7 +1,14 @@
 {
   "name": "ng-n-recaptcha",
   "private": true,
-  "version": "13.2.1",
+  "version": "1.0.0",
+  "description": "A custom fork of ng-recaptcha to support Angular 19",
+  "keywords": [
+    "recaptcha",
+    "angular",
+    "ng-recaptcha"
+  ],
+  "author": "Neuradigi Techologies",
   "scripts": {
     "demo:file-gen": "ts-node --project ./tsconfig.node.json ./projects/demo/bin/file-gen.ts",
     "demo:serve": "yarn demo:file-gen && ng serve demo",
