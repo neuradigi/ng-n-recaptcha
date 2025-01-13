@@ -8,7 +8,7 @@
     "angular",
     "ng-recaptcha"
   ],
-  "author": "Neuradigi Techologies",
+  "author": "Neuradigi Technologies",
   "scripts": {
     "demo:file-gen": "ts-node --project ./tsconfig.node.json ./projects/demo/bin/file-gen.ts",
     "demo:serve": "yarn demo:file-gen && ng serve demo",
