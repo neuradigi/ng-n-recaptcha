@@ -1,6 +1,6 @@
 {
   "name": "ng-n-recaptcha",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "A custom fork of ng-recaptcha to support Angular 19",
   "keywords": [
